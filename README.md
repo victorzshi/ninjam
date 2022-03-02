@@ -10,4 +10,4 @@ Made at [TOJam 13](http://www.tojam.ca/games_2018/default.asp) in 2018.
 
 - Justin Koh (Programmer)
 - Mladen Stambolija (Artist)
-- Victor Shi (Programmer)
+- Victor Zhuoyue Shi (Programmer)
